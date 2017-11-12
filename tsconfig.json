@@ -21,7 +21,8 @@
         "suppressImplicitAnyIndexErrors": true,
         "noImplicitAny": false,
         "allowJs": true,
-        "outDir": "./dist"
+        "outDir": "./dist",
+        "strictFunctionTypes": false
     },
     "include": [
         "./src/**/*.ts"
